@@ -1,0 +1,36 @@
+/* Layout */
+body{
+	padding-top: 50px;
+}
+
+.container{
+	max-width: 1000px;
+}
+
+/* Jumbotron */
+.jumbotron {
+	text-align: center;
+}
+
+/* GlyphIcons */
+
+.glyphicon{
+	font-size: 3em;
+	color: #3a87ad;
+	display: block;
+	margin: auto;
+}
+
+.carousel-indicators {
+	bottom: 0;
+}
+
+.carousel-indicators .active {
+	background-color: #222;
+}
+
+.carousel-indicators .li {
+	background-color: #222;
+}
+
+
